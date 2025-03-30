@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131.81 27.81">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+        opacity: .6;
+      }
+    </style>
+  </defs>
+  <g id="_组_325" data-name="组 325">
+    <circle id="_椭圆_58" data-name="椭圆 58" class="cls-1" cx="12.1" cy="14.86" r="8.88"/>
+    <circle id="_椭圆_59" data-name="椭圆 59" class="cls-2" cx="38.73" cy="14.86" r="8.88"/>
+    <circle id="_椭圆_60" data-name="椭圆 60" class="cls-2" cx="65.36" cy="14.86" r="8.88"/>
+    <circle id="_椭圆_61" data-name="椭圆 61" class="cls-2" cx="91.99" cy="14.86" r="8.88"/>
+    <circle id="_椭圆_62" data-name="椭圆 62" class="cls-2" cx="118.63" cy="14.86" r="8.88"/>
+  </g>
+</svg>
